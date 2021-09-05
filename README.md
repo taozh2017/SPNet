@@ -73,8 +73,12 @@ The training and testing experiments are conducted using [PyTorch](https://githu
 
     
 
+1. Train Configuration:
 
-1. Testing Configuration:
+    + After you download training dataset, just run `train.py` to train our model.
+    
+
+1. Test Configuration:
 
     + After you download all the pre-trained model and testing dataset, just run `test_produce_maps.py` to generate the final prediction map, then run `test_evaluation_maps.py` to obtain the final quantitative results. 
     
