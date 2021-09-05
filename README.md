@@ -33,7 +33,7 @@ RGB-D saliency detection has attracted increasing attention, due to its effectiv
 <p align="center">
     <img src="Imgs/Fig_quantitative.png"/> <br />
     <em> 
-    Figure 2: Benchmarking results of 8 representative traditional models and 22 deep models on six public RGB-D saliency datasets.
+    
     </em>
 </p>
 
@@ -43,7 +43,7 @@ RGB-D saliency detection has attracted increasing attention, due to its effectiv
 <p align="center">
     <img src="Imgs/Fig_qualitative.png"/> <br />
     <em> 
-    Figure 3: Visual comparisons of our method and eight state-of-the-art methods.
+    Figure 2: Visual comparisons of our method and eight state-of-the-art methods.
     </em>
 </p>
 
