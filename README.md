@@ -32,9 +32,7 @@ RGB-D saliency detection has attracted increasing attention, due to its effectiv
 
 <p align="center">
     <img src="Imgs/Fig_quantitative.png"/> <br />
-    <em> 
-    
-    </em>
+
 </p>
 
 
