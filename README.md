@@ -55,8 +55,6 @@ The training and testing experiments are conducted using [PyTorch](https://githu
 
 1. Configuring your environment (Prerequisites):
     
-    + Creating a virtual environment in terminal: ` **** `.
-    
     + Installing necessary packages: `pip install -r requirements.txt`.
 
 1. Downloading necessary data:
