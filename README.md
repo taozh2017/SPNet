@@ -1,4 +1,4 @@
-# Specificity-preserving RGB-D Saliency Detection (ICCV 2021)
+# Specificity-preserving RGB-D Saliency Detection
 
 > **Authors:** 
 > [*Tao Zhou*](https://taozh2017.github.io),
