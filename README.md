@@ -63,13 +63,13 @@ The training and testing experiments are conducted using [PyTorch](https://githu
 
 1. Downloading necessary data:
 
+    + Downloading training dataset ([download link (Google Drive)](https://drive.google.com/file/d/1Orss85k3wEUgDhItwT1goEN6WQFA1SOw/view?usp=sharing)) and move it into `./Data/`.
+
+
     + Downloading testing dataset ([download link (Google Drive)](https://drive.google.com/file/d/1sWJqCg2dAKSSkfrvB7zkwwsW6Ybd4Gd1/view?usp=sharing)) and move it into `./Data/`.
 
-    
-    + Downloading training dataset [download link (Google Drive)](https://drive.google.com/file/d/1Orss85k3wEUgDhItwT1goEN6WQFA1SOw/view?usp=sharing) and move it into `./Data/`.
-
-    
-    + Downloading pretrained weights [download link (Google Drive)](https://drive.google.com/file/d/13LuyVhSqbhxkE0dmRuy9QXbXOMBDSIcD/view?usp=sharing). and move it into `./Checkpoint/SPNet/`.
+        
+    + Downloading pretrained weights ([download link (Google Drive)](https://drive.google.com/file/d/13LuyVhSqbhxkE0dmRuy9QXbXOMBDSIcD/view?usp=sharing)) and move it into `./Checkpoint/SPNet/`.
 
     
 
