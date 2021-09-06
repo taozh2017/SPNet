@@ -10,7 +10,7 @@
 
 ## 1. Preface
 
-- This repository provides code for "_**Specificity-preserving RGB-D Saliency Detection**_" ICCV-2021. [![Arxiv Page](https://img.shields.io/badge/Arxiv-2105.12555-red?style=flat-square)](https://arxiv.org/pdf/2108.08162.pdf)
+- This repository provides code for "_**Specificity-preserving RGB-D Saliency Detection**_" ICCV-2021. [![Arxiv Page](https://img.shields.io/badge/Arxiv-2108.08162-red?style=flat-square)](https://arxiv.org/pdf/2108.08162.pdf)
 
 ## 2. Overview
 
