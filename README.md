@@ -78,7 +78,7 @@ The training and testing experiments are conducted using [PyTorch](https://githu
 
     + After you download all the pre-trained model and testing dataset, just run `test_produce_maps.py` to generate the final prediction map, then run `test_evaluation_maps.py` to obtain the final quantitative results. 
     
-    + You can also download predicted saliency maps [download link (Google Drive)](https://drive.google.com/file/d/1-3N8hNgDNki-NTp1UbbFGDKUwjIv3QFo/view?usp=sharing) and move it into `./Predict_maps/`, then then run `test_evaluation_maps.py`.
+    + You can also download predicted saliency maps ([download link (Google Drive)](https://drive.google.com/file/d/1-3N8hNgDNki-NTp1UbbFGDKUwjIv3QFo/view?usp=sharing)) and move it into `./Predict_maps/`, then then run `test_evaluation_maps.py`.
     
     
 ### 3.2 Evaluating your trained model:
