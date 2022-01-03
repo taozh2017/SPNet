@@ -96,5 +96,12 @@ Please cite our paper if you find the work useful, thanks!
   		booktitle={International Conference on Computer Vision (ICCV)},
   		year={2021},
 	}
+	
+	@inproceedings{zhoucvmj2022,
+  		title={Specificity-preserving RGB-D Saliency Detection},
+  		author={Zhou, Tao and Fan, Deng-Ping and Chen, Geng and Zhou, Yi and Fu, Huazhu},
+  		booktitle={Computational Visual Media},
+  		year={2022},
+	}
 
 **[⬆ back to top](#0-preface)**
