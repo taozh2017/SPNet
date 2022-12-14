@@ -51,7 +51,7 @@ RGB-D saliency detection has attracted increasing attention, due to its effectiv
 
 ### 3.1. Training/Testing
 
-The training and testing experiments are conducted using [PyTorch](https://github.com/pytorch/pytorch) with one NVIDIA Tesla V100 GPU with 32 GB memor.
+The training and testing experiments are conducted using [PyTorch](https://github.com/pytorch/pytorch) with one NVIDIA Tesla V100 GPU with 32 GB memory.
 
 1. Configuring your environment (Prerequisites):
     
